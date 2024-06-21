@@ -1,50 +1,35 @@
-DACH 🐶
-¡Bienvenidos a Dach! 🎮
+<h1 align="center" id="title">Dach</h1>
 
-En este adorable juego, tu objetivo es cuidar de tu propio Dachshund virtual (también conocido como perro salchicha). Deberás alimentarlo, jugar con él y mantenerlo limpio para que esté feliz y saludable. ¡Diviértete y asegúrate de que tu mascota tenga una vida maravillosa! 🌟Características del Juego 🌟
+<p id="description">En este adorable juego tu objetivo es cuidar de tu propio Dachshund virtual (también conocido como perro salchicha). Deberás alimentarlo jugar con él y mantenerlo limpio para que esté feliz y saludable. ¡Diviértete y asegúrate de que tu mascota tenga una vida maravillosa! 🌟</p>
 
-Hambre 🍖: Asegúrate de alimentar a tu perro regularmente para que no pase hambre.
+<h2>Instalación: 🔨</h2>
 
-Felicidad 🎾: Juega con tu perro para mantener su nivel de felicidad alto.
+<p>1. Obtener repositorio</p>
 
-Limpieza 🧼: Mantén a tu perro limpio para que esté siempre saludable y contento.
+```
+git clone "https://GitHub.com/Tomber991/Dach.git
+```
 
-Cómo Jugar 🕹️
-Alimentar: Toca el botón "Alimentar" para reducir el hambre de tu perro.
+<p>2. Navega al directorio</p>
 
-Jugar: Toca el botón "Jugar" para aumentar la felicidad de tu perro.
-
-Limpiar: Toca el botón "Limpiar" para reducir la suciedad de tu perro.
-
-Requisitos 🛠️
-Python 3.xPygame
-
-Instalación 🔧
-Clona el repositorio: git clone https://github.com/Tomber991/Dach.git
-
-Navega al directorio del proyecto:
-
+```
 cd Dach
+```
 
-Instala las dependencias:
+<p>3. Instala dependencias</p>
 
-pip install pygame
+```
+Pip instala pygame
+```
 
-Ejecución del Juego ▶️
-Ejecuta el archivo principal:python main.py
+<p>4. Ejecuta el juego</p>
 
-Estructura del Proyecto 📂
-main.py: Archivo principal que inicializa el juego y maneja la lógica principal.
+```
+python Main.py
+```
+<h2> Contribuciones 🤝 </h2>
+  
+  ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el juego o encuentras algún bug, no dudes en abrir un issue o enviar un pull request.
 
-perro.py: Define la clase Perro y sus métodos.
-
-Data_manager.py: Funciones para cargar y guardar datos en formato JSON.
-
-perro_data.json: Archivo que almacena los datos del estado del perro.
-
-Dach_Assets/: Carpeta que contiene las imágenes del perro.
-
-fonts/: Carpeta que contiene la fuente utilizada en el juego.
-
-Contribuciones 🤝
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el juego o encuentras algún bug, no dudes en abrir un issue o enviar un pull request.Licencia 📜Este proyecto está licenciado bajo la MIT License.
+<h2>Licencia 📃:</h2>
+Este proyecto está licenciado bajo la MIT License.
