@@ -1,25 +1,35 @@
+<h1 align="center" id="title">Dach</h1>
 
-# Dach!! 🐕💫
+<p id="description">En este adorable juego tu objetivo es cuidar de tu propio Dachshund virtual (también conocido como perro salchicha). Deberás alimentarlo jugar con él y mantenerlo limpio para que esté feliz y saludable. ¡Diviértete y asegúrate de que tu mascota tenga una vida maravillosa! 🌟</p>
 
-Sumérgete en el fascinante mundo de Dach,
-donde los protagonistas son encantadores perros salchichas.
-En este universo, serás un entrenador de dachshunds
-y tu misión será explorar, entrenar, y competir en batallas épicas
-para convertirte en el mejor maestro de dachshunds.
+<h2>Instalación: 🔨</h2>
 
-El objetivo principal es convertirte
-en el mejor maestro de dachshunds,
-capturando y entrenando a los mejores perros salchichas, 
-ganando batallas y explorando el vasto mundo de Dach.
-Completa misiones, descubre secretos y participa en torneos
-para lograr el título de Campeón de Dach.
+<p>1. Obtener repositorio</p>
 
-dach está dirigido a jugadores de todas las edades
-que disfrutan de los juegos de aventura, estrategia y coleccionismo de criaturas. 
-Es ideal para los fanáticos de los perros y aquellos que buscan una experiencia 
-de juego divertida y entrañable.
+```
+git clone "https://GitHub.com/Tomber991/Dach.git
+```
 
-El juego presenta un estilo pixel art colorido y atractivo, 
-con gráficos en 2D que recuerdan a los clásicos juegos de Pokémon, 
-pero con un toque moderno y único centrado en los adorables perros salchichas.
+<p>2. Navega al directorio</p>
 
+```
+cd Dach
+```
+
+<p>3. Instala dependencias</p>
+
+```
+Pip instala pygame
+```
+
+<p>4. Ejecuta el juego</p>
+
+```
+python Main.py
+```
+<h2> Contribuciones 🤝 </h2>
+  
+  ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el juego o encuentras algún bug, no dudes en abrir un issue o enviar un pull request.
+
+<h2>Licencia 📃:</h2>
+Este proyecto está licenciado bajo la MIT License.
