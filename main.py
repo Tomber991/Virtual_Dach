@@ -1,6 +1,6 @@
 import pygame
 from perro import Perro
-from Data_manager import cargar_datos, guardar_datos
+from data_manager import cargar_datos, guardar_datos
 
 # Inicializar Pygame
 pygame.init()
@@ -27,7 +27,7 @@ boton_jugar = pygame.Rect(200, 500, 100, 50)
 boton_limpiar = pygame.Rect(350, 500, 100, 50)  # Nuevo botón
 
 # Cargar fuente pixel art
-fuente_pixel = pygame.font.Font("fonts/PressStart2P-Regular.ttf", 18)
+fuente_pixel = pygame.font.Font("Fonts/PressStart2P-Regular.ttf", 18)
 
 # Bucle principal
 corriendo = True
